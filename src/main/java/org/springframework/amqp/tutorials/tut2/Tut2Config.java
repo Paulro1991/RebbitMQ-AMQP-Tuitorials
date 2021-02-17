@@ -1,4 +1,4 @@
-package org.springframework.amqp.tutorials.tu2;
+package org.springframework.amqp.tutorials.tut2;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.context.annotation.Bean;
